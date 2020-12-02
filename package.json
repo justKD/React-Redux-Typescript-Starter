@@ -1,7 +1,7 @@
 {
   "name": "react-redux-typescript-starter",
   "version": "1.0.0",
-  "description": "This is a starter template for React/Redux Typescript projects.\n\nFor a more robust template with examples, see my React-Redux-Serverless-Typescript-Example template.\n\nhttps://codesandbox.io/s/react-redux-serverless-typescript-example-gvjlj?file=/README.md",
+  "description": "This is a barebones starter template for React/Redux Typescript projects.",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
@@ -36,6 +36,11 @@
     "lint": "eslint './src/**/*.{ts,tsx}'",
     "lint:fix": "eslint './src/**/*.{ts,tsx}' --fix"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"],
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
   "license": "MIT"
 }

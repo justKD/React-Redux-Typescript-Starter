@@ -4,4 +4,4 @@
 
 This is a barebones starter template for React/Redux Typescript projects.
 
-[Fork on CodeSandbox](https://codesandbox.io/s/react-redux-typescript-starter-qm74c)
+[Fork on CodeSandbox](https://codesandbox.io/s/react-redux-typescript-starter-7ydyi)
