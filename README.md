@@ -1,6 +1,6 @@
 # React-Redux-Typescript-Starter
 
-##### v 1.0.0 | © justKD 2020
+##### v 1.0.0 | © Cadence Holmes 2020 | MIT License
 
 This is a barebones starter template for React/Redux Typescript projects.
 
